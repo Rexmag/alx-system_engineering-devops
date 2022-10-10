@@ -1,2 +1,1 @@
-#!/bin/bash
-README.md
+0 hello world
